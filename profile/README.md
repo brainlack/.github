@@ -1,4 +1,6 @@
-## Brainlack
+
+
+## <img width=30px height=30px src="https://cdn.clickette.net/r/brainlack.png" alt="Brainlack"></a> Brainlack
 Where you lack a brain!
 
 ## What is the language?
