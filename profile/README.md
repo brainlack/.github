@@ -1,13 +1,14 @@
+### Stryware Technologies
+Hello, we are a company trying to bring you everything related to tech.
 
+### What will I find here?
+Here, you might find all of our open source stuff! Such as StrywIDE and brainlack!
 
-## <img width=50px height=50px src="https://cdn.clickette.net/r/brainlack.png" alt="Brainlack"></a> Brainlack
-Where you lack a brain!
+### Our goals
+* Start an actual fucking company
+* Make the IDE official
+* Make a license
+* Make a VPN
 
-## What is the language?
-Brainlack is a programming language consisting of using brackets as encoding for javascript.
-
-## What the fuck? You're destroying my brain!
-That is our goal, sir.
-
-## Where are the ducks?
-We dont sell ducks, but here are the [docs](https://brainlack.github.io)
+### I thought you were a real company?
+That is one of our goals too.
