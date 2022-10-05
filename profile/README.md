@@ -17,6 +17,9 @@ There a variety of perks for joining this org. Some of these include:
 * Create events within the public community
 * Contribute to our projects
 
+### How do I join?
+You can join by filling out this [form](https://forms.gle/bWXxCHsG93qEgCMz6)
+
 ### What will I find here?
 Here, you might find all of the stuff people in our community have made. Such as StrywIDE and brainlack.
 
